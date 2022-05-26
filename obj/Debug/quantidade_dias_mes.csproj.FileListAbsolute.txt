@@ -1,0 +1,10 @@
+D:\Exercicios logica\quantidade_dias_mes\bin\Debug\quantidade_dias_mes.exe.config
+D:\Exercicios logica\quantidade_dias_mes\bin\Debug\quantidade_dias_mes.exe
+D:\Exercicios logica\quantidade_dias_mes\bin\Debug\quantidade_dias_mes.pdb
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.csproj.AssemblyReference.cache
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.Form1.resources
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.Properties.Resources.resources
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.csproj.GenerateResource.cache
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.exe
+D:\Exercicios logica\quantidade_dias_mes\obj\Debug\quantidade_dias_mes.pdb
